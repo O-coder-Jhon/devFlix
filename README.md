@@ -26,9 +26,9 @@ Aplicativo mobile que consome a Api do Youtube e lista conteúdos para desenvolv
 
 ## :man_technologist: Autor
 
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+Foto | Nome | GitHub |  E-mail
+---- | ---- | ------ |  ------
+<img src="" width="100px">  | Jonas Almeida Santos | [O-coder-Jhon](https://github.com/O-coder-Jhon) | oww.jhon@gmail.com
 
 ## :computer: Tecnologias
 
@@ -56,15 +56,15 @@ Foi utilizado o React Native para desenvolver a estrutura do app, e através da 
 
 ## :handshake: Contribuindo
 
-Confira a página [CONTRIBUTING](https://github.com/rafaellevissa/appDevFlix/blob/master/CONTRIBUTING.md) página para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
+Confira a página [CONTRIBUTING](https://github.com/O-coder-Jhon/appDevFlix/blob/master/CONTRIBUTING.md) página para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir.
 
 ## :open_book: License
 
 Lançado em 2020.
-Este projeto está sob a [MIT license](https://github.com/rafaellevissa/appDevFlix/blob/master/LICENSE).
+Este projeto está sob a [MIT license](https://github.com/O-coder-Jhon/appDevFlix/blob/master/LICENSE).
 
 <p align="center">
-    Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
+    Feito com :heart: por <a href="https://github.com/O-coder-Jhon">Jonas Almeida Santos</a>
 </p>
 
 <!-- Markdown link & img dfn's -->
